@@ -20,7 +20,8 @@ B=np.linalg.inv(A)
 print(B)
 ```
 ## Output:
-![Screenshot 2023-11-17 193723](https://github.com/praveenck23009864/INVERSE-OF-A-MATRIX/assets/141472050/3061334e-a5c1-45bd-b9c9-798e5f624428)
+![image](https://github.com/praveenck23009864/INVERSE-OF-A-MATRIX/assets/141472050/69f0000b-8173-4a46-8832-5dec3457d5f2)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
